@@ -1,5 +1,5 @@
 // jQuery tasks re-packaged as independent utility methods
-// Source: github.com/NathanRutzky/jQuery.extendy
+// Source: github.com/ByNathan/jQuery.extendy
 // Version: 1.0
 
 (function($) {
@@ -259,6 +259,6 @@
             
         reverse: [].reverse
                 
-    });    	
+    });
 
 })(jQuery);
